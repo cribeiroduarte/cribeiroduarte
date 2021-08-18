@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou o Carlos!</h1>
-<h3 align="center">Professor universitário e criador do canal Polimorfismo</h3>
+<h3 align="center">Professor universitário e fundador do canal Polimorfismo!</h3>
  <p align="center"> 
   <img src="https://img.shields.io/badge/Fortran-E34F26?style=for-the-badge&logo=fortran&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=dart&logoColor=white">
