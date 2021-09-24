@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white">
   </p>
   
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cribeiroduarte&count_private=true&show_icons=true&theme=merko)
+ <h3 align="center">[GitHub stats](https://github-readme-stats.vercel.app/api?username=cribeiroduarte&count_private=true&show_icons=true&theme=merko)</h3>
 
  
 <!--
