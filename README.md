@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/Flutter-F7DF1E?style=for-the-badge&logo=flutter&logoColor=black">
   <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white">
   </p>
- <h3 align="center" <a href="https://github-readme-stats.vercel.app/api?username=cribeiroduarte&count_private=true&show_icons=true&theme=merko" </a></h3>
+  
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cribeiroduarte&count_private=true&show_icons=true&theme=merko)
+
  
 <!--
  <p align="center"> 
